@@ -1,0 +1,15 @@
+14
+36C:\Users\csxie\Jirengu\dom-1\.vscode133293668514019192 1
+40C:\Users\csxie\Jirengu\dom-1\src\main.js133294051112603350 0
+33C:\Users\csxie\Jirengu\dom-1\dist133294052430784326 1
+32C:\Users\csxie\Jirengu\dom-1\src133293564735868054 1
+39C:\Users\csxie\Jirengu\dom-1\src\dom.js133294052430555160 0
+43C:\Users\csxie\Jirengu\dom-1\src\index.html133294047045406637 0
+55C:\Users\csxie\Jirengu\dom-1\dist\dom-1.59712999.js.map133294048074456067 0
+51C:\Users\csxie\Jirengu\dom-1\dist\dom-1.59712999.js133294048074426052 0
+51C:\Users\csxie\Jirengu\dom-1\dist\index.755bdb92.js133294052430754311 0
+55C:\Users\csxie\Jirengu\dom-1\dist\index.755bdb92.js.map133294052430784326 0
+51C:\Users\csxie\Jirengu\dom-1\dist\index.de158e3a.js133294051112794902 0
+55C:\Users\csxie\Jirengu\dom-1\dist\index.de158e3a.js.map133294051112815334 0
+44C:\Users\csxie\Jirengu\dom-1\dist\index.html133294048074526119 0
+50C:\Users\csxie\Jirengu\dom-1\.vscode\settings.json133293668514266141 0
